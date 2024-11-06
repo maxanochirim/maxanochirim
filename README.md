@@ -1,7 +1,7 @@
 ## Hi there 👋
 -->
 - 👋 I’m Maximus Anochirim @maxanochirim
-- 👀 I’m an early scientist interested in ecological research, and evidence-based policy development for biodiversity conservation and sustainable landscape management
+- 👀 I’m an early stage scientist interested in ecological research, and evidence-based policy development for biodiversity conservation and sustainable landscape management
 - ⚡ I’m soft-skilled in science communication, project management, and collaborating with diverse stakeholder groups
 - 🌱 and Hard-skilled in the use of quantitative tools for the analysis and visualization of environmental data
 - 💞️ I’m open to collaborating on topics that border; Machine learning, ecological research (particularly in the tropics), and policy development
